@@ -1,0 +1,12 @@
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\bin\Debug\008-快速排序.exe.config
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\bin\Debug\008-快速排序.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\bin\Debug\008-快速排序.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\obj\Debug\008-快速排序.csprojResolveAssemblyReference.cache
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\obj\Debug\008-快速排序.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\数据结构\008-快速排序\obj\Debug\008-快速排序.pdb
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\bin\Debug\008-快速排序.exe.config
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\obj\Debug\008-快速排序.exe
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\obj\Debug\008-快速排序.pdb
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\bin\Debug\008-快速排序.exe
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\bin\Debug\008-快速排序.pdb
+E:\12121320PZH\SIKI学院\数据结构\第四季 SIKIC#数据结构与算法(2015版)\源码\数据结构\008-快速排序\obj\Debug\008-快速排序.csprojResolveAssemblyReference.cache
