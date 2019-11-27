@@ -1,0 +1,6 @@
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\bin\Debug\01背包问题 - 穷举法.exe.config
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\bin\Debug\01背包问题 - 穷举法.exe
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\bin\Debug\01背包问题 - 穷举法.pdb
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\obj\Debug\01背包问题 - 穷举法.csprojResolveAssemblyReference.cache
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\obj\Debug\01背包问题 - 穷举法.exe
+E:\VS Workspace\编程内功修炼\01背包问题 - 穷举法\obj\Debug\01背包问题 - 穷举法.pdb
